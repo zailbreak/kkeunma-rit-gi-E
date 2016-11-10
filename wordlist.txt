@@ -3,3 +3,4 @@ clone
 effort
 train
 Nike~
+everyday
